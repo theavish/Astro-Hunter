@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0ea42562-26a5-4cee-9555-2805b96e7263",
+            "Value": {
+                "id": "ccd0c8ee-20fe-4e98-97b0-b11cd6ae38a6",
+                "resourcePath": "rooms\\StartRoom\\StartRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0eb681bf-d8d8-41a3-97bc-f30b027afa9e",
             "Value": {
                 "id": "a8a64b0c-efc1-4b72-973e-720da7f6c76f",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "5c860273-12dd-44fb-b7d3-86b19f47bf81",
+            "Value": {
+                "id": "1d8a63f3-dbd2-4049-aaf8-43a518013655",
+                "resourcePath": "views\\5c860273-12dd-44fb-b7d3-86b19f47bf81.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6cc94711-7616-4cb5-806b-f050ec2c9e4f",
             "Value": {
                 "id": "2e11af10-7c6b-4ceb-888b-8600a8e18f54",
@@ -172,6 +188,22 @@
                 "id": "033373c9-8eed-4e55-b60f-b8276cabcd56",
                 "resourcePath": "views\\770a66f1-5a34-4d8b-8071-135ceba7903a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2e04323-011f-4d92-845f-e77066f6a5fa",
+            "Value": {
+                "id": "00385614-5258-4d43-a3bd-dd911deebee6",
+                "resourcePath": "rooms\\GameOverRoom\\GameOverRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a375405f-8906-436b-82b2-4962731881b2",
+            "Value": {
+                "id": "afec2302-269a-4deb-801e-7211948998fc",
+                "resourcePath": "objects\\GameController\\GameController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -207,19 +239,19 @@
             }
         },
         {
+            "Key": "ca8e2034-adbf-41e6-ac2e-42b0a2923e1b",
+            "Value": {
+                "id": "89357566-cf24-4a98-b8c4-6c99288bc787",
+                "resourcePath": "sprites\\BackgroundSprite\\BackgroundSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "48734351-c832-47f7-ab06-d095f97314df",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "d3aade15-50f9-4949-81fb-b2a64c656cca",
-            "Value": {
-                "id": "0757f4ab-3cd1-447f-af9b-ae988e5c1d6e",
-                "resourcePath": "scripts\\PlayerMovementScript\\PlayerMovementScript.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -264,7 +296,7 @@
         }
     ],
     "script_order": [
-        "d3aade15-50f9-4949-81fb-b2a64c656cca"
+        
     ],
     "tutorial": ""
 }
