@@ -8,8 +8,9 @@ script_execute(PlayerMovementScript);
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 0E36ABF1
-/// @DnDArgument : "expr" "mouse_check_button(mb_left)"
-if(mouse_check_button(mb_left))
+/// @DnDComment : if FIRE is pressed but not held, execute the shoot event
+/// @DnDArgument : "expr" "mouse_check_button_pressed(mb_left)"
+if(mouse_check_button_pressed(mb_left))
 {
 	/// @DnDAction : YoYo Games.Instances.Call_User_Event
 	/// @DnDVersion : 1
