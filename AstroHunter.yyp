@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "1345c7ef-20d1-48b9-89e0-04d259d0bd85",
+            "Value": {
+                "id": "d2724468-cd42-459f-b328-4c48a7d1c6f2",
+                "resourcePath": "scripts\\GetMonsterForRank\\GetMonsterForRank.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "158b4c74-cc01-4e41-86b0-4a7a9da2fe2c",
+            "Value": {
+                "id": "c8fe2f75-bd81-48da-80f1-f843db906ff9",
+                "resourcePath": "scripts\\SpawnerScript\\SpawnerScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "171b421e-80b5-4585-aa07-924c772d2de1",
             "Value": {
                 "id": "e3037b75-64c4-4eb7-bed1-7380aa92fe46",
@@ -191,6 +207,14 @@
             }
         },
         {
+            "Key": "91bd0f07-e311-437c-9aa8-014c5e5c9d7d",
+            "Value": {
+                "id": "5dbcdc0a-d01a-4a63-91a3-ba43b14b92d8",
+                "resourcePath": "objects\\WaveController\\WaveController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a2e04323-011f-4d92-845f-e77066f6a5fa",
             "Value": {
                 "id": "00385614-5258-4d43-a3bd-dd911deebee6",
@@ -296,7 +320,8 @@
         }
     ],
     "script_order": [
-        
+        "158b4c74-cc01-4e41-86b0-4a7a9da2fe2c",
+        "1345c7ef-20d1-48b9-89e0-04d259d0bd85"
     ],
     "tutorial": ""
 }

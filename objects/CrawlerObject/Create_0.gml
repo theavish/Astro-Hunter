@@ -11,3 +11,10 @@ __dnd_health = real(3);
 /// @DnDArgument : "score" "1"
 
 __dnd_score = real(1);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1A39451B
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "rank"
+rank = 1;
